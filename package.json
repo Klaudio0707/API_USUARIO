@@ -12,6 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "@prisma/client": "^5.19.0",
+    "axios": "^1.7.7",
+    "cors": "^2.8.5",
     "express": "^4.19.2"
   },
   "devDependencies": {
